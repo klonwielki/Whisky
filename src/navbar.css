@@ -1,0 +1,10 @@
+.Navbar{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    background-color: rgb(122, 69, 0);
+}
+.Link{
+    color: white;
+    text-decoration: none;
+}
