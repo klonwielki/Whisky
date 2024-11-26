@@ -2,9 +2,15 @@
     display: flex;
     justify-content: center;
     gap: 10px;
-    background-color: rgb(122, 69, 0);
+    background-color: rgb(1, 0, 8);
+    font-family: Bronova;
 }
 .Link{
     color: white;
     text-decoration: none;
+    font-weight: 600;
+}
+@font-face {
+    font-family: Bronova;
+    src: url(Bronova\ Regular.woff);
 }
